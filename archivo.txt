@@ -1,0 +1,6 @@
+Cristiano Ronaldo, Delantero, 7, Portugal
+Sergio Ramos, Defensa, 4, España
+Luka Modric, Centrocampista, 10, Croacia
+Lionel Messi, Delantero, 10, Argentina
+Gerard Piqué, Defensa, 3, España
+Andres Iniesta, Centrocampista, 8, España
